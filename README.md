@@ -1,5 +1,5 @@
 # UCL-Dissertation
-This repository contains the core code used to conduct the dissertation study and publicly available datasets used before.
+This repository contains the core code and publicly available datasets used to conduct the dissertation study.
 Datasets provided in this repository do not include the footfall dataset acquired from the CDRC (https://data.cdrc.ac.uk/dataset/local-data-company-smartstreetsensor-footfall-data-%E2%80%93-research-aggregated-data), which is non-public.
 The access links to the publicly available datasets used in this study are listed below:
   1. weather conditions: https://dev.meteostat.net/python/#installation (Python library)
